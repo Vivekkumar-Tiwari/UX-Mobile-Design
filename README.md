@@ -1,4 +1,5 @@
-<p style="margin: 20px; font-size: 18px; font-weight: bold;">This is My First UI Design of UI, Using Figma</p>
+<p style="margin: 20px; font-size: 18px; font-weight: bold;">This is basic logo  but it was classic </p>
+<p> </p>
 
 ![Frame 1 - Copy](https://github.com/Vivekkumar-Tiwari/UX-Mobile-Design/assets/158731018/98db461a-1482-4047-b5d0-1dba39776d5e)
 <p style="margin: 20px; font-size: 18px; font-weight: bold;">This logo denotes to my team (HACK MASTER)</p>
