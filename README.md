@@ -5,7 +5,7 @@
 
 ![Frame 1 - Copy](https://github.com/Vivekkumar-Tiwari/UX-Mobile-Design/assets/158731018/98db461a-1482-4047-b5d0-1dba39776d5e)
 <p style="margin: 20px; font-size: 18px; font-weight: bold;">This logo denotes to my team (HACK MASTER)</p>
-![image](https://github.com/Vivekkumar-Tiwari/UX-Mobile-Design/assets/158731018/002eab3a-620d-408e-b540-7e548b3a2ea4)
+
 <p style="margin: 20px; font-size: 18px; font-weight: bold;">Image Description 1</p>
 
 ![image](https://github.com/Vivekkumar-Tiwari/UX-Mobile-Design/assets/158731018/45a14d99-2e97-4159-b819-8f9a7dc8df2b)
