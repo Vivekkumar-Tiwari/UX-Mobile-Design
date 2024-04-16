@@ -1,5 +1,4 @@
 
-
 <p style="margin: 20px; font-size: 18px; font-weight: bold;">This is basic logo  but it was classic </p>
 <p> </p>
 
