@@ -1,5 +1,7 @@
-## landing page of electric bike
+# part of design #
+![Desktop - 8](https://github.com/Vivekkumar-Tiwari/UX-Mobile-Design/assets/158731018/f774fdae-2ce5-4ba8-a4d2-2fe658720328)
 
+## landing page of electric bike
 ![image](https://github.com/Vivekkumar-Tiwari/UX-Mobile-Design/assets/158731018/e590f0a5-5fae-4500-9114-f9f0878666b1)
 ## it a panda
 ![image](https://github.com/Vivekkumar-Tiwari/UX-Mobile-Design/assets/158731018/b3aea063-e786-4af6-957f-2caa5dcf1cb1)
