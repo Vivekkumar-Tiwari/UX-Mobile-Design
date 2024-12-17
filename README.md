@@ -1,3 +1,6 @@
+# Thumbnail for You Tube Video
+![Thumbnail-4](https://github.com/user-attachments/assets/21c492dd-5aa3-4c83-be92-e26f8a9973f4)
+
 # Part of design #
 ![MacBook Pro 16_ - 1](https://github.com/Vivekkumar-Tiwari/UX-Mobile-Design/assets/158731018/23ec796f-deb0-4c0f-b9e5-a72d358ec49e)
 
