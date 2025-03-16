@@ -1,5 +1,8 @@
-# MY Worklio Design 
-# 1
+
+# 01 User Persona
+![day_1](https://github.com/user-attachments/assets/bd8d36ff-9d10-4190-be79-be80bc3b8a3d)
+
+# # MY Worklio Design 
 ![Workllio_1](https://github.com/user-attachments/assets/3102e29e-aad4-4d38-933a-91c7376797b7)
 
 # 2
