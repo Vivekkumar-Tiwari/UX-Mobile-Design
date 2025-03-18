@@ -1,4 +1,3 @@
-
 # 01 User Persona
 ![day_1](https://github.com/user-attachments/assets/bd8d36ff-9d10-4190-be79-be80bc3b8a3d)
 
